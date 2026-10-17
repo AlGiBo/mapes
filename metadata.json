@@ -1,0 +1,6 @@
+{
+  "name": "El Relleu i els Rius de Catalunya",
+  "description": "Joc educatiu interactiu de geografia per aprendre el relleu, litoral i xarxa hidrogràfica de Catalunya amb comptador d'encerts i errors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
